@@ -1,5 +1,9 @@
 # esconderemostrarconteudo
 [Esconder e Mostrar Conteúdo]
+
+
+
+
 /*!
  * Name      : Divino Silva [Esconder e Mostrar Conteudo]
  * Copyright : 2014-2015
@@ -7,7 +11,6 @@
  * Author    : divinosilva.com.br
  * GitHub    : https://github.com/divin0silva
  */
-
 // produtos
 
     $(document).ready(function(){
